@@ -5,3 +5,4 @@ onions
 lime juice
 salt
 garlic
+jalapeno
