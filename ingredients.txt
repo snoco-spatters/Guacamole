@@ -3,3 +3,4 @@ tomatoes
 cilantro
 onions
 lime juice
+salt
