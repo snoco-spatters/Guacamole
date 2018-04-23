@@ -4,3 +4,4 @@ cilantro
 onions
 lime juice
 salt
+garlic
